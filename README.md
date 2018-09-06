@@ -11,3 +11,4 @@
 ![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Throw.PNG)
 ![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Throws.PNG)
 ![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Try.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/AnnisaRizkyRamdhani_XIRPL5_Jobsheet5.docx)
