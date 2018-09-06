@@ -1,0 +1,13 @@
+# Jobsheet5
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Catch.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Finally.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan1.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan2.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan3.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan4.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan5.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan6(1).PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Latihan6(2).PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Throw.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Throws.PNG)
+![alt text](https://github.com/ramdhaniannisa28/Jobsheet5/blob/master/Try.PNG)
